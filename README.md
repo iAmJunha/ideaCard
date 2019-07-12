@@ -1,2 +1,2 @@
 # ideaCard
-Set of cards Motivating idea.
+Create python program suggests idea materials for invention
